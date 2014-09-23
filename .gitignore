@@ -1,3 +1,4 @@
 swarm/
 swarm_description.py
 *.pyc
+model_params/
