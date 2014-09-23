@@ -1,6 +1,6 @@
 # Bridge Tilt Experiment
 
-The data in `data/raw` was provided by John Blackwater from the NuPIC mailing lists. He problem is to find anomalies in the bridge tilt data, which could be affected by temperature readings.
+The data in `data/raw` was provided by John Blackburn from the NuPIC mailing lists. He problem is to find anomalies in the bridge tilt data, which could be affected by temperature readings.
 
 This experiment is a work in progress.
 
