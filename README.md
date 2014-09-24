@@ -7,8 +7,11 @@ This experiment is a work in progress.
 - [X] Convert raw data into NuPIC input files
 - [X] Produce swarm configuration for an input file
 - [X] Create swarm script to run a swarm over input
-- [ ] Evaluate model params output by swarm
-- [ ] Run NuPIC with model params output by swarm
-- [ ] Evaluate NuPIC output
+- [X] Evaluate model params output by swarm
+- [X] Run NuPIC with model params output by swarm
+- [X] Evaluate NuPIC output
 - [ ] Experiment with different model params based on swarm output
+- [ ] Train an anomaly model on first two years data, serialize model
+- [ ] Resurrect trained model and run third year with plot
+- [ ] Try an anomaly model with manually encoded temperature as a factor
 - [ ] Experiment with using multiple models simultaneously
